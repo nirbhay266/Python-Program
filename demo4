@@ -1,0 +1,154 @@
+(32) Write a program to enter any Number then check inputted Number is 
+ Greater than 100, if inputted No. is greater than 100 then print 
+ “Inputted Number is Greater than 100”. 
+(33) Write a program to enter any Number then check inputted Number is 
+ Less than 100, if inputted No. is less than 100 then print “Inputted 
+ Number is Less than 100”.
+(34) Write a program to enter any Number then check inputted Number is 
+equal to 50, if inputted No. is equal to 50 then print “Inputted Number 
+ is Equal to 50”.
+(35) Write a program to enter any Number then check and print inputted 
+ Number is Positive or Negative. 
+3
+for any assistance: 07044070123
+E-mail: progressiveclasses@yahoo.com 
+(36) Write a program to enter any Number then check inputted Number is 
+Even Number, if inputted No. is Even then print “Inputted Number is 
+ Even Number”. 
+(37) Write a program to enter any Number then check inputted Number is 
+Odd Number, if inputted No. is Odd then print “Inputted Number is 
+ Odd Number”. 
+(38) Write a program to enter any Number then check inputted Number is 
+Even or Odd. if inputted No. is Even then print “Inputted Number is
+ Even Number” otherwise print “Inputted Number is Odd Number”. 
+(39) Write a program to enter any Number then check inputted Number is 
+Successful divisible by 5 or not, if inputted No. is divisible by 5 then 
+ print “Inputted No.is Successful divisible by 5” otherwise print 
+ “Inputted No. is not Successful divisible by 5”. 
+(40) Write a program to enter any Number then check inputted Number is 
+Greater than and equal to 10 and less than and equal to 20, if in 
+between 10-20 then print “Inputted No. is in between 10 to 20” 
+ otherwise print “Inputted No. is not in between 10 to 20”. 
+(41) Write a program to enter Two Numbers then check largest one and 
+ finally print largest one Number. If both are same then print All are 
+ Same. 
+(42) Write a program to enter Three Numbers then check largest one and 
+ finally print largest one Number. If all inputted No. are Same then 
+ print “All inputted No. are Same”. 
+(43) Write a program to enter Employee Name and its Basic Salary, if Basic 
+Salary is greater than and equal to 3000 then give 10% TA and 5% 
+HRA else give 20% DA and 10% HRA, finally calculate Net Salary
+and finally print Employee Name and Net Salary. 
+(44) Write a program to enter Student Name and his three Subject Marks 
+ then calculate Total and Average Marks and check if Average Marks 
+ is greater than and equal to 60 then print Student Name and Grade-A
+ else print Student Name and Grade-B. 
+(45) Write a program to enter Student Name and his Six Subject Marks
+then calculate Total Marks and Average Marks then check if Average 
+Marks is greater than and equal to 60 then print Student Name and 
+1st Division, if Average Marks is greater than and equal to 45 and 
+less than 60 then print Student Name and 2nd Division, if Average 
+Marks is greater than and equal to 30 and less than 45 then print 
+Student Name and 3rd Division otherwise print Student Name and 
+Fail. 
+(46) Write a program to enter Metro City Name and its Fahrenheit Temp. 
+Then convert Fahrenheit to Celsius Temp. Then check if Celsius 
+4
+for any assistance: 07044070123
+E-mail: progressiveclasses@yahoo.com 
+temp. is greater than and equal to 30 then print Metro City Name and 
+Hot Day otherwise print Metro City Name and Cool Day. 
+(47) Write a program to enter Metro City Name and its Fahrenheit Temp. 
+Then convert Fahrenheit to Celsius Temp. Then check if Celsius 
+temp. Is less than 5 then print Metro City Name and Cool Day, if 
+Celsius temp. is greater than and equal to 5 and less than 15 then 
+print Metro City Name and Normal Day and if Celsius Temp. is 
+greater than and equal to 15 then print Metro City Name and Hot Day.
+(48) Write a program to enter any Name and Age then check if inputted 
+ Age is less than 5 then print Child, if inputted Age is greater than and 
+ equal to 5 and less than 18 then prints Teenager, if inputted Age is 
+ greater than and equal to 18 and less than 30 then prints Young, if 
+ inputted Age is greater than and equal to 30 then print OLD. 
+(49) Write a program to enter any Year then check inputted year is Leap 
+ Year or Not. [Hints: if(y%4==0 & y%100!=0 | y%400==0) ]
+LEAP YEAR RULES A year is a leap-year if it is evenly
+divisible by 4 unless it is evenly divisible by 100, UNLESS it is
+evenly divisible by 400. This means that 1800, 1900, and 2100 are
+NOT leap years, but 2000 is a leap year, since it is evenly divisible
+by 400!
+ (50) Write a program to enter any Alphabate Character then check inputted 
+ Character is Vowel or Consonant, if input any Number or any Special 
+ Character then print a message "Not a Alphabate Character".
+(51) Write a program to enter Day Number then print appropriate Day, 
+otherwise print Invalid Day Number. [Hints: 1-Sunday, 2-Monday, 3-Tue…]
+(52) Write a program to enter two Numbers and also enter one Arithmetic 
+ Operator then calculate the appropriate operation and finally print 
+ the Result. if inputted Arithmetic operator is invalid then print 
+ “Invalid Arithmetic Operator”.
+ then Convert and print Lower case format, otherwise print “Inputted 
+ Character is not A Alphabate”.
+
+ Loop Statement (While/do-While/for) Programs:-
+(53) Write a program to print 100 Numbers from 1 to 100 using while loop. 
+(54) Write a program to print 100 Numbers from 100 to 1 using while loop. 
+(55) Write a program to print all Even Numbers from 1 to 100. 
+(56) Write a program to print all Odd Numbers from 1 to 100. 
+(57) Write a program to print all Even and Odd Numbers from 1 to 100. 
+(58) Write a program to print Sum of all Numbers from 1 to 100. 
+(59) Write a program to enter any Number then print Table of that Number. 
+
+
+Use continue:-
+(61) Write a program to print all the Numbers from 1 to 100 but skip the 
+ numbers from 51 to 75 using Continue statement. 
+(62) Write a program to print all ASCII Character of number from 1 to 255
+ but skip the all Alphabate Characters (Capital & Small) using 
+Continue statement. 
+(63) Write a program to print all Alphabate Characters (Capital & small)
+ using Continue statemen
+
+
+
+ Loop Statement (Special Type) Programs:-
+(64) Write a program to enter any Number then print Digit of that Number 
+ by using any Loop. (While/do-while/for) [Hints: n=54321 d=5]
+(65) Write a program to enter any Number then print Reverse of that 
+ Number by using any Loop. [Hints: n=54321 d=12345]
+(66) Write a program to enter any Number then check inputted Number is 
+Palindrome or Not, if Number is Palindrome then print “Inputted 
+ Number is Palindrome” otherwise print “Inputted Number is not 
+ Palindrome” by using any Loop. [Hints: n=121 r=121]
+(67) Write a program to enter any Number then check inputted Number is 
+Magic Number or not, if Number is Magic then print “Inputted 
+Number is Magic No.” otherwise print “Inputted Number is not 
+Magic No.” by using any Loop. [Hints: n=64 Digit of n is: 6+4=10]
+(68) Write a program to enter any Number then check inputted Number is 
+Armstrong Number or not, if Number is Armstrong then print 
+ “Inputted Number is Armstrong” otherwise print “Inputted Number 
+ is not Armstrong” by using any Loop. 
+ [Hints: n=153 Digit of N is: 1
+3
++5
+3
++3
+3
+=153]
+(69) Write a program to enter any Number then print Factorial of that 
+ Number. [Hints: n=5 f=5*4*3*2*1 f=120]
+(70) Write a program to print all Palindrome Numbers in between 1 to 500
+ by using for Loop. 
+(71) Write a program enter any Number then Check Whether inputted 
+ Number is Prime or Not. 
+PRIME NO. (A prime number is a Positive integer that is
+Divisible only by 1 and itself.)
+(72) Write a program to print “Fibonacci Series” from 0 to 100. 
+ [Series: 0, 1, 1, 2, 3, 5, 8, 13, 21…]
+(73) Write a program to print “Lucas Sequence” which is a variation of 
+Fibonacci Series from 1 to 50. 
+ [Series: 1, 3, 4, 7, 11, 18…]
+6
+for any assistance: 07044070123
+E-mail: progressiveclasses@yahoo.com 
+(74) Write a program to print “Fibonacci Series” from 0 to 150. 
+ [Series: 0, 1, 1, 2, 4, 7, 13, 24, 44, 81, 149]
+(75) Write a program to print “Fibonacci Series” for given "N" value. 
