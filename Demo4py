@@ -1,0 +1,13 @@
+def magic():
+    n=int(input("Enter Any Number"))
+    x=n
+    r=0
+    while n!=0:
+        b=n%10
+        r=r+b
+        n=n//10
+    if r==10:
+        print("MAgic Number")
+    else:
+        print("Not Magic Number")
+magic()
